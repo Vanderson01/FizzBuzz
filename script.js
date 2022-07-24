@@ -17,4 +17,5 @@ function fizzbuzz() {
         i++;
     }
     return document.getElementById("demo").innerHTML = temp;
+    
 }
