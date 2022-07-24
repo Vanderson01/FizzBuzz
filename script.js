@@ -1,5 +1,5 @@
 function fizzbuzz() {
-    let i = 0;
+    let i = 1;
     let temp = [];
     let fizz, buzz = "";
     let params = prompt("Digite um número para percorrer do 1 até ele:");
